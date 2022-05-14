@@ -3,4 +3,4 @@ A simple form created in React JS that takes string input to display it on the w
 Built as part of UCI's ICSSC Fellowship
 
 # Live Preview
-siravent.github.io/icssc-fellowship-form/
+https://siravent.github.io/icssc-fellowship-form/
