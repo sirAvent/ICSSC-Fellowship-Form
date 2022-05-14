@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ICSSC-Fellowship-Form/static/css/main.e2151632.css",
-    "main.js": "/ICSSC-Fellowship-Form/static/js/main.63357145.js",
-    "static/js/787.403a778e.chunk.js": "/ICSSC-Fellowship-Form/static/js/787.403a778e.chunk.js",
-    "index.html": "/ICSSC-Fellowship-Form/index.html",
-    "main.e2151632.css.map": "/ICSSC-Fellowship-Form/static/css/main.e2151632.css.map",
-    "main.63357145.js.map": "/ICSSC-Fellowship-Form/static/js/main.63357145.js.map",
-    "787.403a778e.chunk.js.map": "/ICSSC-Fellowship-Form/static/js/787.403a778e.chunk.js.map"
+    "main.css": "/favorite-classes/static/css/main.e2151632.css",
+    "main.js": "/favorite-classes/static/js/main.33b8e60e.js",
+    "static/js/787.403a778e.chunk.js": "/favorite-classes/static/js/787.403a778e.chunk.js",
+    "index.html": "/favorite-classes/index.html",
+    "main.e2151632.css.map": "/favorite-classes/static/css/main.e2151632.css.map",
+    "main.33b8e60e.js.map": "/favorite-classes/static/js/main.33b8e60e.js.map",
+    "787.403a778e.chunk.js.map": "/favorite-classes/static/js/787.403a778e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2151632.css",
-    "static/js/main.63357145.js"
+    "static/js/main.33b8e60e.js"
   ]
 }
