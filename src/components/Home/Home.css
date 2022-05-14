@@ -1,0 +1,23 @@
+.my-classes {
+    background-color: lightgoldenrodyellow;
+    color: black;
+    margin-top: 2em;
+    border-radius: 30px;
+}
+
+.flex-container {
+    display:flex;
+    flex-direction:column;
+    justify-content: flex-start;
+}
+
+.flex-container > div {
+    text-align: center;
+    line-height: 100px;
+}
+
+.beta {
+    width:200px;
+    height: 100px;
+    background-color: red;
+}
