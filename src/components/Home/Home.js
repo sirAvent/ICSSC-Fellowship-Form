@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import Class from '../Class/Class';
+import ClassGraphQL from '../Class/ClassGraphQL';
 import './Home.css';
 
 function Home(props) {
@@ -29,14 +30,18 @@ function Home(props) {
                 <button type="submit">Add Class!</button>
             </form>
 
-            <div className='my-classes flex-container'>
+            <div className='my-classes'>
                 {/* prototype.map(does whatever u want to each value of the array/proto)*/}
                 {favoriteClasses.map((favClass) =>
                     <Class name={favClass} key={favClass}/>
-                    
                 )}
-                
-                
+            </div>
+
+            <div className='my-classes'>
+                {/* prototype.map(does whatever u want to each value of the array/proto)*/}
+                {favoriteClasses.map((favClass) =>
+                    <ClassGraphQL name={favClass} key={favClass}/>
+                )}
             </div>
         </div>
     )
